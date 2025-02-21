@@ -1,4 +1,4 @@
-#today i learned today how to make the computer remeber info you type in.
+# today i learned today how to make the computer remeber info you type in.
 myName = input("What's your name?: ")
 myFood = input("What's your favorite food?: ")
 myMusic = input("What's your favorite music?: ")
